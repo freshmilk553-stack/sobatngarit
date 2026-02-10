@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html amp lang="id-ID">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Sobat Ngarit – Edukasi Pertanian & Kehidupan Desa</title>
+
+    <meta
+      name="description"
+      content="Sobat Ngarit menyajikan edukasi pertanian, tips ngarit, inspirasi kehidupan desa, dan panduan tani sederhana yang praktis dan mudah dipahami untuk mendukung petani Indonesia."
+    />
+
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="Sobat Ngarit – Edukasi Pertanian & Kehidupan Desa"
+    />
+    <meta
+      property="og:description"
+      content="Artikel edukasi santai tentang pertanian, ngarit, pakan ternak, dan kehidupan pedesaan yang membumi, praktis, dan mudah dipraktikkan."
+    />
+    <meta property="og:url" content="https://sobatngarit.github.io/sobatngarit/" />
+    <meta property="og:site_name" content="Sobat Ngarit" />
+    <meta
+      property="og:image"
+      content="https://sobatngarit.github.io/sobatngarit/icon.png"
+    />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Sobat Ngarit – Edukasi Pertanian & Inspirasi Desa"
+    />
+    <meta
+      name="twitter:description"
+      content="Temukan tips bertani, panduan ngarit, pakan ternak, dan inspirasi kehidupan desa untuk menemani aktivitasmu dengan cara yang sederhana dan bermanfaat."
+    />
+    <meta name="twitter:label1" content="Estimasi waktu membaca" />
+    <meta name="twitter:data1" content="4 menit" />
+    
+    <link rel="canonical" href="https://sobatngarit.github.io/sobatngarit/" />
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="https://sobatngarit.github.io/sobatngarit/icon.png"
+    />
+
+    <script
+      async
+      custom-element="amp-iframe"
+      src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"
+    ></script>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+    <style amp-boilerplate>
+      body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+      }
+      @-webkit-keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+        to {
+          visibility: visible;
+        }
+      }
+      @-moz-keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+        to {
+          visibility: visible;
+        }
+      }
+      @-ms-keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+        to {
+          visibility: visible;
+        }
+      }
+      @-o-keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+        to {
+          visibility: visible;
+        }
+      }
+      @keyframes -amp-start {
+        from {
+          visibility: hidden;
+        }
+        to {
+          visibility: visible;
+        }
+      }
+    </style>
+    <noscript>
+      <style amp-boilerplate>
+        body {
+          -webkit-animation: none;
+          -moz-animation: none;
+          -ms-animation: none;
+          animation: none;
+        }
+      </style>
+    </noscript>
+
+    <style amp-custom>
+      * {
+        margin: 0;
+        padding: 0;
+        outline: none;
+        box-sizing: border-box;
+      }
+
+      html {
+        background-position: left top;
+        background-size: auto;
+        background-repeat: repeat;
+        background-attachment: scroll;
+      }
+
+      body {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-image: url(https://sobatngarit.github.io/sobatngarit/bg-grey.png);
+        background-position: left top;
+        background-size: auto;
+        background-repeat: repeat;
+        background-attachment: scroll;
+      }
+
+      .banner-bar {
+        width: 70%;
+        text-align: center;
+        margin: auto;
+      }
+
+      .banner-bar img {
+        width: 100%;
+        text-align: center;
+      }
+
+      .Container2 {
+        width: 960px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f7f7f7;
+      }
+
+      .Article {
+        box-shadow: 0 0 1px #2a2a2a;
+        padding: 10px;
+        background-color: #fff;
+      }
+
+      .Article h1 {
+        text-align: center;
+        font-family: "Bebas Neue";
+        color: #000;
+        font-size: 28px;
+        margin-bottom: 10px;
+        font-weight: 400;
+      }
+
+      .Article .Line {
+        border-bottom: 1px solid #595959;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+      }
+
+      .Article h2 {
+        font-family: "Helvetica";
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: 28px;
+        font-weight: 400;
+        color: #000;
+      }
+
+      .Article p {
+        color: #000;
+        text-align: justify;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+
+      .Article a {
+        color: #000;
+        text-decoration: none;
+      }
+
+      .Article h3 {
+        font-family: "Helvetica";
+        text-align: center;
+        margin-top: 25px;
+        margin-bottom: 10px;
+        font-size: 24px;
+        font-weight: 400;
+        color: #000;
+      }
+
+      .Banner300 {
+        text-align: center;
+        width: 40%;
+        margin: auto;
+      }
+
+      .iframe30d {
+        width: 100%;
+        height: 1600px;
+      }
+
+      .iframe1 {
+        width: 100%;
+        height: 360px;
+      }
+
+      .iframe2 {
+        width: 100%;
+        height: 1620px;
+      }
+
+      @media screen and (max-width: 960px) {
+        .banner-bar {
+          width: 99%;
+          text-align: center;
+          margin: auto;
+          padding: 10px 0;
+        }
+
+        .banner-bar img {
+          width: 100%;
+          text-align: center;
+        }
+
+        .MTMobile {
+          margin-top: 20px;
+        }
+
+        .Container2 {
+          width: 100%;
+          padding: 10px;
+        }
+
+        .Article {
+          box-shadow: 0 0 1px #2a2a2a;
+          padding: 10px;
+        }
+
+        .Article h1 {
+          font-size: 24px;
+        }
+
+        .Article h2 {
+          font-size: 24px;
+        }
+
+        .Iframe-Container {
+          width: 100%;
+          margin: auto;
+        }
+      }
+
+      @media screen and (max-width: 535px) {
+        .Banner300 {
+          width: 80%;
+        }
+      }
+
+      .Container {
+        width: 960px;
+        margin: 0 auto;
+        margin-top: 15px;
+        background-color: #f7f7f7;
+      }
+
+      .top-bar {
+        background-color: #930000;
+        border-bottom: 1px solid #000000;
+        padding: 4px;
+        min-height: 34px;
+        width: 100%;
+      }
+
+      .menu-navbar {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-bottom: 1px solid #000000;
+        box-shadow: inset 0px -2px 5px 1px rgb(0, 0, 0, 0.2);
+        padding: 0 10px;
+        cursor: default;
+        user-select: none;
+        text-transform: uppercase;
+        background: #930000;
+      }
+
+      .main-menu {
+        font-family: "Roboto condensed", sans-serif;
+        color: #fff;
+        text-align: center;
+        border-right: 1px solid #222222;
+        cursor: pointer;
+      }
+
+      .main-name {
+        text-shadow: 0px 0px 2px #222;
+        padding: 10px 20px;
+        transition: 0.3s;
+      }
+
+      .main-name:hover {
+        background-color: #fff;
+        color: #000;
+        text-shadow: none;
+      }
+
+      .list-menu-name {
+        background-color: #920000;
+        position: absolute;
+        width: 170px;
+        border: 1px solid #000;
+        box-shadow: 0 1px 4px #000;
+        z-index: 990;
+        display: none;
+      }
+
+      .list-menu-name a {
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        float: left;
+        width: 100%;
+        padding: 10px 14px;
+        font-size: 15px;
+        border-bottom: 1px solid #000;
+        transition: 0.15s;
+      }
+
+      .list-menu-name a:hover {
+        background-color: #fff;
+        color: #000;
+      }
+
+      .main-menu:hover .list-menu-name {
+        display: block;
+      }
+
+      .nav-extra {
+        text-decoration: none;
+        color: #fff;
+      }
+
+      .nav-extra:hover {
+        background-color: #fff;
+        color: #000;
+      }
+
+      .header-logo {
+        width: 100%;
+        text-align: center;
+        display: none;
+      }
+
+      .header-logo img {
+        width: 40%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+      }
+
+      @media screen and (max-width: 960px) {
+        .Container {
+          width: 100%;
+          margin-top: 0px;
+          border-top: 0px solid #b30000;
+        }
+
+        .menu-navbar {
+          display: block;
+          border-bottom: none;
+          box-shadow: none;
+          padding: 0;
+          text-align: center;
+        }
+
+        .main-menu {
+          border-left: none;
+          border-right: none;
+          border-bottom: 1px solid #ffe4df;
+          text-transform: uppercase;
+          font-weight: 600;
+        }
+
+        .list-menu-name {
+          position: relative;
+          float: none;
+          background-color: #000;
+          width: 100%;
+          box-shadow: none;
+          display: none;
+          border: none;
+        }
+
+        .list-menu-name a {
+          display: block;
+          float: none;
+          width: 100%;
+          color: #fff;
+          border-bottom: 1px solid #000;
+        }
+
+        .main-menu:hover .list-menu-name {
+          display: unset;
+        }
+
+        .header-logo img {
+          width: 40%;
+        }
+      }
+
+      .footer {
+        box-shadow: 0 0 1px #2a2a2a;
+        padding: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        background: #ffffff;
+      }
+
+      .footer a {
+        text-decoration: none;
+        flex-grow: 3;
+        text-transform: capitalize;
+        display: block;
+        text-align: center;
+        padding: 8px 5px;
+        border-radius: 5px;
+        width: 30%;
+        font-size: 14px;
+        margin: 5px;
+        font-weight: bold;
+        color: #000;
+        border: 1px solid #ccc;
+        background-color: #ededed;
+      }
+
+      .footer a:hover {
+        border-color: #ccc;
+        background-color: #f1f1f1;
+      }
+
+      @media screen and (max-width: 960px) {
+        .footer a {
+          width: 45%;
+        }
+      }
+
+      @media screen and (max-width: 535px) {
+        .footer a {
+          width: 50%;
+        }
+      }
+
+      #site-description {
+        color: #ccc;
+        font-family: "Roboto Condensed", Sans-serif;
+        font-size: 15px;
+      }
+
+      #site-title,
+      #site-description {
+        display: inline-block;
+        margin-right: 4px;
+        line-height: 1;
+        vertical-align: bottom;
+      }
+
+      #site-title {
+        font-size: 20px;
+      }
+
+      #site-title a {
+        color: #dc8300;
+        text-decoration: none;
+      }
+
+      blockquote {
+        background-color: #f9f9f9;
+        border-left: 6px solid #454b55;
+        margin: 20px;
+        padding: 10px 14px 2px;
+        font-style: italic;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="Container">
+      <div class="top-bar">
+        <div id="site-title">
+          <a href="https://sobatngarit.github.io/sobatngarit/">Sobat Ngarit</a>
+        </div>
+      </div>
+
+      <div class="header-logo"></div>
+
+      <div class="menu-navbar">
+        <div class="main-menu">
+          <div class="main-name">Pertanian</div>
+          <div class="list-menu-name">
+            <a href="https://sobatngarit.github.io/sobatngarit/">Tips Bertani</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Perawatan Lahan</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Tanaman Pangan</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Pupuk & Kompos</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Musim Tanam</a>
+          </div>
+        </div>
+
+        <div class="main-menu">
+          <div class="main-name">Peternakan</div>
+          <div class="list-menu-name">
+            <a href="https://sobatngarit.github.io/sobatngarit/">Ngarit Harian</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Pakan Ternak</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Sapi & Kambing</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Kesehatan Ternak</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Manajemen Kandang</a>
+          </div>
+        </div>
+
+        <div class="main-menu">
+          <div class="main-name">Kehidupan Desa</div>
+          <div class="list-menu-name">
+            <a href="https://sobatngarit.github.io/sobatngarit/">Cerita Desa</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Gotong Royong</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Inspirasi Petani</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Kearifan Lokal</a>
+          </div>
+        </div>
+
+        <div class="main-menu">
+          <div class="main-name">Panduan</div>
+          <div class="list-menu-name">
+            <a href="https://sobatngarit.github.io/sobatngarit/">Panduan Pemula</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Checklist Harian</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Alat & Perlengkapan</a>
+            <a href="https://sobatngarit.github.io/sobatngarit/">Tanya Jawab</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="banner-bar"></div>
+    </div>
+
+    <div class="Container2">
+      <div class="Article">
+        <h1>
+          <a href="https://sobatngarit.github.io/sobatngarit/">
+            Sobat Ngarit: Cara Ngarit yang Efektif + Pakan Ternak Tetap Segar
+          </a>
+        </h1>
+
+        <div class="Line"></div>
+
+        <p>
+          Menjadi <a href="https://sobatngarit.github.io/sobatngarit/"><strong>Sobat Ngarit</strong></a>
+          bukan cuma soal memotong rumput. Ngarit adalah bagian penting dari ritme
+          hidup peternak dan petani: konsisten, sederhana, tapi dampaknya besar.
+        </p>
+
+        <p>
+          Di halaman ini, Sobat Ngarit berbagi tips praktis supaya ngarit lebih efisien,
+          pakan lebih awet, dan ternak tetap sehat. Tidak harus mahal—yang penting tepat.
+        </p>
+
+        <h2>Filosofi Ngarit di Kehidupan Desa</h2>
+        <blockquote>
+          <p>
+            Ngarit mengajarkan ketekunan: sedikit demi sedikit, dilakukan setiap hari.
+            Dari rumput yang dikumpulkan, ternak tumbuh, dan dapur tetap mengepul.
+          </p>
+        </blockquote>
+
+        <p>
+          Banyak orang mengira ngarit itu pekerjaan kecil. Padahal, kualitas pakan
+          menentukan performa ternak: nafsu makan, kesehatan, sampai pertumbuhan bobot.
+          Maka, cara ambil rumput dan cara simpan pakan itu penting.
+        </p>
+
+        <h2>Peralatan Ngarit Sederhana yang Wajib Punya</h2>
+        <ul>
+          <li><strong>Arit/Sabit tajam</strong> (lebih cepat, potongan rapi)</li>
+          <li><strong>Sarung tangan</strong> (hindari luka & gatal)</li>
+          <li><strong>Tali/keranjang/karung</strong> untuk ikat rumput</li>
+          <li><strong>Sepatu boot</strong> bila area becek atau berbatu</li>
+        </ul>
+
+        <h2>Tips Ngarit Biar Hemat Tenaga</h2>
+        <p>
+          Ini beberapa kebiasaan kecil yang biasanya bikin kerja lebih ringan:
+        </p>
+        <ul>
+          <li>Ngarit pagi atau sore agar rumput lebih segar</li>
+          <li>Pilih rumput muda dan bersih dari gulma berduri</li>
+          <li>Potong secukupnya sesuai kebutuhan 1–2 hari</li>
+          <li>Jangan campur rumput basah dengan yang sudah layu</li>
+        </ul>
+
+        <h2>Cara Menyimpan Pakan Agar Tidak Cepat Busuk</h2>
+        <p>
+          Setelah pulang ngarit, jangan langsung ditumpuk rapat.
+          Sebaiknya <strong>diangin-anginkan</strong> dulu di tempat teduh agar tidak
+          terlalu lembap. Pakan yang terlalu basah lebih mudah panas dan cepat rusak.
+        </p>
+
+        <p>
+          Kalau Sobat punya stok lebih, bisa coba bikin <strong>silase</strong> atau
+          pakan fermentasi sederhana. Itu berguna saat musim hujan atau rumput sulit dicari.
+        </p>
+
+        <p>
+          Dari desa untuk negeri—dari rutinitas ngarit, kita menjaga ketahanan pangan
+          dan kemandirian keluarga.
+        </p>
+      </div>
+
+      <br />
+
+      <div class="footer">
+        <a href="https://pafibarumun.org/" target="_blank">Live Draw SDY</a>
+        <a href="https://pafikarangtinggikota.org/" target="_blank">Live Draw SGP</a>
+        <a href="https://terraco.asia/" target="_blank">Live Draw HK</a>
+        <a href="https://anciklopedia.org/" target="_blank">Data HK Lotto</a>
+        <a href="https://pafisalatigakabupaten.org/" target="_blank">Data SDY Lotto</a>
+        <a href="https://dailyideas.site/" target="_blank">Data SGP</a>
+        <a href="#" target="_blank">Alat Pertanian</a>
+        <a href="#" target="_blank">Cerita Desa</a>
+        <a href="#" target="_blank">Inspirasi Petani</a>
+        <a href="#" target="_blank">Tanya Jawab</a>
+      </div>
+    </div>
+  </body>
+</html>
