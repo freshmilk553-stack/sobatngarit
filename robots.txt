@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freshmilk553-stack.github.io/sobatngarit/sitemap.xml
